@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1482330472"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq -FiC:\Users\maksi\OneDrive\Документы\project2\lib\x86_64-win64 &quot;-FuC:\Users\maksi\OneDrive\Документы\проект 3&quot; -FuD:\lazarus\lcl\units\x86_64-win64\win32 -FuD:\lazarus\lcl\units\x86_64-win64 -FuD:\lazarus\components\freetype\lib\x86_64-win64 -FuD:\lazarus\components\lazutils\lib\x86_64-win64 -FuD:\lazarus\packager\units\x86_64-win64 -FuC:\Users\maksi\OneDrive\Документы\project2\ -FUC:\Users\maksi\OneDrive\Документы\project2\lib\x86_64-win64\ -FEC:\Users\maksi\OneDrive\Документы\project2\ -oC:\Users\maksi\OneDrive\Документы\project2\project2.exe -dLCL -dLCLwin32 project2.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
